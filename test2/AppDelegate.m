@@ -24,6 +24,8 @@
     
     NSLog(@"3");
     
+    NSLog(@"4");
+    
     return YES;
 }
 
